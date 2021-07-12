@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RestCrlApiApplication<rest-crl-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.demo.RestCrlApiApplication",
+            "projectName": "rest-crl-api",
+            "args": ""
+        }
+    ]
+}
